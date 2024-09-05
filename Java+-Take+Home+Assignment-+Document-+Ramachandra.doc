@@ -1,0 +1,448 @@
+Date: Thu, 5 Sep 2024 15:30:04 +0000 (UTC)
+Message-ID: <769752392.3.1725550204189@918cacb56868>
+Subject: Exported From Confluence
+MIME-Version: 1.0
+Content-Type: multipart/related; 
+	boundary="----=_Part_2_1591978608.1725550204189"
+
+------=_Part_2_1591978608.1725550204189
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///C:/exported.html
+
+<html xmlns:o=3D'urn:schemas-microsoft-com:office:office'
+      xmlns:w=3D'urn:schemas-microsoft-com:office:word'
+      xmlns:v=3D'urn:schemas-microsoft-com:vml'
+      xmlns=3D'urn:w3-org-ns:HTML'>
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8=
+">
+    <title>Java -Take Home Assignment- Document- Ramachandra</title>
+    <!--[if gte mso 9]>
+    <xml>
+        <o:OfficeDocumentSettings>
+            <o:TargetScreenSize>1024x640</o:TargetScreenSize>
+            <o:PixelsPerInch>72</o:PixelsPerInch>
+            <o:AllowPNG/>
+        </o:OfficeDocumentSettings>
+        <w:WordDocument>
+            <w:View>Print</w:View>
+            <w:Zoom>90</w:Zoom>
+            <w:DoNotOptimizeForBrowser/>
+        </w:WordDocument>
+    </xml>
+    <![endif]-->
+    <style>
+                <!--
+        @page Section1 {
+            size: 8.5in 11.0in;
+            margin: 1.0in;
+            mso-header-margin: .5in;
+            mso-footer-margin: .5in;
+            mso-paper-source: 0;
+        }
+
+        table {
+            border: solid 1px;
+            border-collapse: collapse;
+        }
+
+        table td, table th {
+            border: solid 1px;
+            padding: 5px;
+        }
+
+        td {
+            page-break-inside: avoid;
+        }
+
+        tr {
+            page-break-after: avoid;
+        }
+
+        div.Section1 {
+            page: Section1;
+        }
+
+        /* Confluence print stylesheet. Common to all themes for print medi=
+a */
+/* Full of !important until we improve batching for print CSS */
+
+@media print {
+    #main {
+        padding-bottom: 1em !important; /* The default padding of 6em is to=
+o much for printouts */
+    }
+
+    body {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        font-size: 10pt;
+        line-height: 1.2;
+    }
+
+    body, #full-height-container, #main, #page, #content, .has-personal-sid=
+ebar #content {
+        background: var(--ds-surface, #fff) !important;
+        color: var(--ds-text, #000) !important;
+        border: 0 !important;
+        width: 100% !important;
+        height: auto !important;
+        min-height: auto !important;
+        margin: 0 !important;
+        padding: 0 !important;
+        display: block !important;
+    }
+
+    a, a:link, a:visited, a:focus, a:hover, a:active {
+        color: var(--ds-text, #000);
+    }
+
+    #content h1,
+    #content h2,
+    #content h3,
+    #content h4,
+    #content h5,
+    #content h6 {
+        font-family: Arial, Helvetica, FreeSans, sans-serif;
+        page-break-after: avoid;
+    }
+
+    pre {
+        font-family: Monaco, "Courier New", monospace;
+    }
+
+    #header,
+    .aui-header-inner,
+    #navigation,
+    #sidebar,
+    .sidebar,
+    #personal-info-sidebar,
+    .ia-fixed-sidebar,
+    .page-actions,
+    .navmenu,
+    .ajs-menu-bar,
+    .noprint,
+    .inline-control-link,
+    .inline-control-link a,
+    a.show-labels-editor,
+    .global-comment-actions,
+    .comment-actions,
+    .quick-comment-container,
+    #addcomment {
+        display: none !important;
+    }
+
+    /* CONF-28544 cannot print multiple pages in IE */
+    #splitter-content {
+        position: relative !important;
+    }
+
+    .comment .date::before {
+        content: none !important; /* remove middot for print view */
+    }
+
+    h1.pagetitle img {
+        height: auto;
+        width: auto;
+    }
+
+    .print-only {
+        display: block;
+    }
+
+    #footer {
+        position: relative !important; /* CONF-17506 Place the footer at en=
+d of the content */
+        margin: 0;
+        padding: 0;
+        background: none;
+        clear: both;
+    }
+
+    #poweredby {
+        border-top: none;
+        background: none;
+    }
+
+    #poweredby li.print-only {
+        display: list-item;
+        font-style: italic;
+    }
+
+    #poweredby li.noprint {
+        display: none;
+    }
+
+    /* no width controls in print */
+    .wiki-content .table-wrap,
+    .wiki-content p,
+    .panel .codeContent,
+    .panel .codeContent pre,
+    .image-wrap {
+        overflow: visible !important;
+    }
+
+    /* TODO - should this work? */
+    #children-section,
+    #comments-section .comment,
+    #comments-section .comment .comment-body,
+    #comments-section .comment .comment-content,
+    #comments-section .comment p {
+        page-break-inside: avoid;
+    }
+
+    #page-children a {
+        text-decoration: none;
+    }
+
+    /**
+     hide twixies
+
+     the specificity here is a hack because print styles
+     are getting loaded before the base styles. */
+    #comments-section.pageSection .section-header,
+    #comments-section.pageSection .section-title,
+    #children-section.pageSection .section-header,
+    #children-section.pageSection .section-title,
+    .children-show-hide {
+        padding-left: 0;
+        margin-left: 0;
+    }
+
+    .children-show-hide.icon {
+        display: none;
+    }
+
+    /* personal sidebar */
+    .has-personal-sidebar #content {
+        margin-right: 0px;
+    }
+
+    .has-personal-sidebar #content .pageSection {
+        margin-right: 0px;
+    }
+
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
+-->
+    </style>
+</head>
+<body>
+    <h1>Java -Take Home Assignment- Document- Ramachandra</h1>
+    <div class=3D"Section1">
+        <p><strong>Follow these steps to set-up the project and Run:</stron=
+g></p>
+<p>Select your preferred IDE (Ex: Vs.code)</p>
+<p></p>
+<ol start=3D"1">
+<li>
+<p>Download java version "21.0.4"</p></li>
+<li>
+<p>Set-up the environment variables</p></li>
+<li>
+<p>Required dependencies are :&nbsp;</p></li>
+</ol>
+<p></p>
+<ul>
+<li>
+<p>Lombok</p></li>
+<li>
+<p>Maven</p></li>
+<li>
+<p>Spring boot</p></li>
+<li>
+<p>Mysql</p></li>
+<li>
+<p>jwt token</p></li>
+</ul>
+<p></p>
+<p><strong>=E2=86=92 </strong>Used spring initializer for initial project s=
+et up.</p>
+<p></p>
+<ol start=3D"4">
+<li>
+<p>Open project folder -javaProject</p></li>
+<li>
+<p>Open javaProject &lt; src &lt; main &lt; java\com.. &lt; service &lt; de=
+moapplication.java &lt; <strong>Run&nbsp;</strong></p></li>
+</ol>
+<p></p>
+<p>These are the following API=E2=80=99s developed and their actions:</p>
+<ol start=3D"1">
+<li>
+<p>Post API=E2=80=99s :&nbsp;</p></li>
+</ol>
+<ul>
+<li>
+<p>To add a new admin, person and employee</p></li>
+<li>
+<p>For admin sign- in&nbsp;&nbsp;</p></li>
+</ul>
+<ol start=3D"2">
+<li>
+<p>Get API :</p></li>
+</ol>
+<ul>
+<li>
+<p>To retrieve the personal data and employee data</p></li>
+</ul>
+<ol start=3D"3">
+<li>
+<p>Put API=E2=80=99s :&nbsp;</p></li>
+</ol>
+<ul>
+<li>
+<p>For updating the persons and employees data</p></li>
+</ul>
+<p></p>
+<p>How the project runs :&nbsp;</p>
+<p>&nbsp;</p>
+<ol start=3D"1">
+<li>
+<p>First an admin should sign up.</p></li>
+<li>
+<p>If the admin is already in the database, the admin can directly sign in.=
+&nbsp;</p></li>
+<li>
+<p>After the signing process a token is generated so that token is used as =
+the authentication, using that generated token while signing in, the admin =
+can add a new person and employee details at same time to different tables =
+with Post api.</p></li>
+<li>
+<p>And next, using get api admin can retrieve the information of the person=
+al details and employee details.&nbsp;</p></li>
+<li>
+<p>&nbsp;And finally the admin can update the details of any employee using=
+ the put api.</p></li>
+<li>
+<p>Authenticating bearer tokens should be used to access any of the service=
+s.&nbsp;</p></li>
+</ol>
+<p></p>
+<p></p>
+<p><strong>API URLs and input formats :&nbsp;</strong></p>
+<ol start=3D"1">
+<li>
+<p>&nbsp;<a class=3D"external-link" href=3D"http://localhost:3030/admin/aut=
+h/signup" rel=3D"nofollow"><u>http://localhost:3030/admin/auth/signup</u></=
+a> &nbsp; &nbsp; - Post( Sign up)</p></li>
+</ol>
+<ul>
+<li>
+<p>Input format : Signup J.son body<br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+&nbsp;&nbsp;&nbsp;&nbsp;"firstName": "Ram",
+&nbsp;&nbsp;&nbsp;&nbsp;"lastName": "chandra",
+&nbsp;&nbsp;&nbsp;&nbsp;"email": "ram@gmail.com",
+&nbsp;&nbsp;&nbsp;&nbsp;"phone": "1234567899",&nbsp;&nbsp;&nbsp;&nbsp;=20
+    "username": "Ramachandra",
+&nbsp;&nbsp;&nbsp; "password": "Ram@1234"
+
+}</pre>
+</div>
+</div></li>
+</ul>
+<ol start=3D"2">
+<li>
+<p><a class=3D"external-link" href=3D"http://localhost:3030/admin/auth/sign=
+in" rel=3D"nofollow"><u>http://localhost:3030/admin/auth/signin</u></a>&nbs=
+p; &nbsp; &nbsp; &nbsp; - Post (Sign In)</p></li>
+</ol>
+<ul>
+<li>
+<p>Input format : Signin J.son body<br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{&nbsp;=
+&nbsp;"username": "Ramachandra",
+&nbsp;&nbsp;"password": "Ram@1234"}
+
+</pre>
+</div>
+</div></li>
+</ul>
+<p></p>
+<ol start=3D"3">
+<li>
+<p><a class=3D"external-link" href=3D"http://localhost:3030/admin/employees=
+" rel=3D"nofollow"><u>http://localhost:3030/admin/employees</u></a> &nbsp; =
+&nbsp; &nbsp; &nbsp; - Get ( Details)</p></li>
+</ol>
+<p></p>
+<ol start=3D"4">
+<li>
+<p><a class=3D"external-link" href=3D"http://localhost:3030/admin/employees=
+/add" rel=3D"nofollow"><u>http://localhost:3030/admin/employees/add</u></a>=
+ - Post (New)</p></li>
+</ol>
+<ul>
+<li>
+<p>Input format : Add employee j.son body<br></p>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+&nbsp;&nbsp;&nbsp;&nbsp;"firstName": "Naruto",
+&nbsp;&nbsp;&nbsp;&nbsp;"lastName": "Uzumakhi",
+&nbsp;&nbsp;&nbsp;&nbsp;"email": "Naruto@gmail.com",
+&nbsp;&nbsp;&nbsp;&nbsp;"phone": "1234569899",
+&nbsp;&nbsp;&nbsp;&nbsp;"role": "Hokage",
+&nbsp;&nbsp;&nbsp;&nbsp;"manager": "Minato",
+&nbsp;&nbsp;&nbsp;&nbsp;"salary": 3000000,
+&nbsp;&nbsp;&nbsp;&nbsp;"startDate": "2024-06-01T00:00:00"}
+
+</pre>
+</div>
+</div></li>
+</ul>
+<ol start=3D"5">
+<li>
+<p><a class=3D"external-link" href=3D"http://localhost:3030/admin/employees=
+/%7Bid" rel=3D"nofollow"><u>http://localhost:3030/admin/employees/{id</u></=
+a>}&nbsp; - Put (update)</p></li>
+</ol>
+<ul>
+<li>
+<p>Input format : Update employee j.son body</p></li>
+</ul>
+<ul>
+<li>
+<div class=3D"code panel pdl" style=3D"border-width: 1px;">
+<div class=3D"codeContent panelContent pdl">
+<pre class=3D"syntaxhighlighter-pre" data-syntaxhighlighter-params=3D"brush=
+: java; gutter: false; theme: Confluence" data-theme=3D"Confluence">{
+&nbsp;&nbsp;&nbsp;&nbsp;"firstName": "Hinata",
+&nbsp;&nbsp;&nbsp;&nbsp;"lastName": "Uzumakhi",
+&nbsp;&nbsp;&nbsp;&nbsp;"email": "Naruto@gmail.com",
+&nbsp;&nbsp;&nbsp;&nbsp;"phone": "1234569899",
+&nbsp;&nbsp;&nbsp;&nbsp;"role": "Hokage",
+&nbsp;&nbsp;&nbsp;&nbsp;"manager": "Himawari",
+&nbsp;&nbsp;&nbsp;&nbsp;"salary": 3000000,
+&nbsp;&nbsp;&nbsp;&nbsp;"startDate": "2024-06-01T00:00:00"}
+</pre>
+</div>
+</div></li>
+</ul>
+<p></p>
+<p></p>
+<p>Reference links :&nbsp;</p>
+<p>JWT : <a class=3D"external-link" data-card-appearance=3D"inline" href=3D=
+"https://medium.com/@tericcabrel/implementation-jwt-authentication-in-a-spr=
+ing-boot-3-application-5839e4fd8fac" rel=3D"nofollow">https://medium.com/@t=
+ericcabrel/implementation-jwt-authentication-in-a-spring-boot-3-application=
+-5839e4fd8fac</a></p>
+<p></p>
+<p><a class=3D"external-link" href=3D"https://youtu.be/X80nJ5T7YpE?si=3DDlh=
+cV5MESCtV9dHX" rel=3D"nofollow"><u>Spring Boot + Spring Security + JWT from=
+ scratch - Java Brains</u></a></p>
+<p></p>
+    </div>
+</body>
+</html>
+------=_Part_2_1591978608.1725550204189--
